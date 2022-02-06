@@ -27,7 +27,6 @@ The GUI allows users to:
 * Search for quotes by author
 * Add a new quote
 * View the full list of quotes
-*
 
 ## Setup
 To run the project locally in your machine;
